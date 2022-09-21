@@ -1,6 +1,7 @@
 //Experiment 1 - Testing future proofing variables
 //Code change 2
 
+//Experiment 2 - Ignore serialization error change
 import javax.swing.JFrame;
    
    public class Pong extends JFrame {
